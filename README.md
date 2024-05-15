@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayman-Kamel-Ali
 - 👀 I’m interested in Working on data
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on any thing related to Data analysis
+- 💞️ I’m looking to collaborate on any project related to Data analysis
 - 📫 How to reach me aymankamel@gmail.com
 - 😄 Pronouns: Ayman
 - ⚡ Fun fact: I smile when I'm angry
