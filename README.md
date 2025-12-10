@@ -34,17 +34,10 @@
 - Tracks cryptocurrency prices over time
 - Skills: API data collection, CSV, time-series
 
-
----
-
-## 📈 GitHub Stats
-
-![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayman-Kamel-Ali&show_icons=true&theme=radical)
-
 ---
 
 ## 📫 Contact Me
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/aymankamel-de)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/ayman-kamel-de)
 - **Email:** aymankamel675@gmail.com
 
 ---
