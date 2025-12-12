@@ -26,13 +26,12 @@
 - Saves daily temperature & humidity in CSV
 - Skills: Python, APIs, ETL, CSV
 
-### 2. [GitHub Repo Analyzer](#) : not finished
+### 2. [GitHub Repo Analyzer](https://github.com/Ayman-Kamel-Ali/Github-Top-N-Repo-By-User)
 - Fetches GitHub repositories and analyzes **stars, forks, languages**
-- Skills: Python, REST APIs, Data analysis
+- Skills: Python, APIs, Data analysis
 
-### 3. [Crypto Price Tracker](#) : not finished
-- Tracks cryptocurrency prices over time
-- Skills: API data collection, CSV, time-series
+### 3. [Job Market Analyzer](https://github.com/Ayman-Kamel-Ali/Job-Market-Analyzer) : not finished
+
 
 ---
 
