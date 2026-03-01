@@ -1,6 +1,5 @@
 # Hi there, I'm Ayman 👋
-
-**Data Engineer | Cloud | ETL**
+## Data Engineer
 
 ---
 
@@ -38,7 +37,7 @@
 
 ## 📫 Let's Connect
 
-* **LinkedIn:** [Ayman Kamel](https://www.linkedin.com/in/ayman-kamel-de) *(Ensure this URL is active)*
+* **LinkedIn:** [Ayman Kamel](https://www.linkedin.com/in/ayman-kamel-de)
 * **Email:** [aymankamel675@gmail.com](mailto:aymankamel675@gmail.com)
 
-> *"Data is the new oil, and I enjoy refining it."*
+*"Data is the new oil, and I enjoy refining it."*
